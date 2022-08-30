@@ -1,6 +1,7 @@
 # AmazeUI-Mobile-Simple
 基于AmazeUI而制作的移动页面
-
++ 展示图片
+  ![](https://github.com/OKAERI/AmazeUI-Mobile-Simple/blob/master/img/img01.png)
 + 说明
   - AmazeUI-Mobile-Simple基于AmazeUI而制作的移动页面，适用于新闻资讯、活动等webapp使用，可以使用Amaze UI进行再一次进行修改等。
 
